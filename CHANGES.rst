@@ -1,6 +1,12 @@
 Changelog
 =========
 
+Version 2.0.1
+-------------
+
+- relax depency version pin to allow Flask 2.x.x
+
+
 Version 2.0.0
 -------------
 
